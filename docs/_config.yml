@@ -29,7 +29,7 @@ url: "https://6igdipper.github.io" # the base hostname & protocol for your site,
 github_username:  6igdipper
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
 
